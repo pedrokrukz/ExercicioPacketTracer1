@@ -2,6 +2,7 @@ Exercício realizado em sala de aula no Packet tracer sobre comununicações ent
 
 Materiais utilizados no projeto:
 > 4 switchs 2960.
+> 
 > 9 computadores, sendo divididos em:
   - Blibliteca 1,2 e 3 (192.168.20.1, 192.168.20.2 e 192.168.20.3);
   - Secretaria 1,2 e 3 (192.168.10.1, 192.168.10.2 e 192.168.10.3);
